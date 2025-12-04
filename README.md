@@ -2,7 +2,7 @@
 
 ## 📱 Download via QR Code
 
-Scan this QR code to download the APK:
+Scan this QR code to download on googleplay:
 
 ![QR Code](width_550.png)
 

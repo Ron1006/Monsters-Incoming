@@ -1,5 +1,12 @@
 👉 [https://youtu.be/your-video-link](https://www.youtube.com/watch?v=-DLNFYjdO6c)
 
+## 📱 Download via QR Code
+
+Scan this QR code to download the APK:
+
+![QR Code](width_550.png)
+
+
 🐲 Monsters Incoming
 
 A light-hearted 2D tower-defense game built with Unity.

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 88e3e6382cd39824a95e39ba817fb414
+  - enabled: 1
+    path: Assets/Scenes/ForestScene.unity
+    guid: 7fa9bd7a0afdda6479dad341e441339e
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: d05276d42f5fdbf4f8302f8535771f5d
+  - enabled: 1
+    path: Assets/Scenes/ForestScene2.unity
+    guid: 9c17c08e35a1f3347ad73b0aa0119a59
+  - enabled: 0
+    path: Assets/Scenes/ForestScene_lv2.unity
+    guid: 9db7bcde6eb6b9c489086185f88eecb4
+  - enabled: 1
+    path: Assets/Scenes/ForestScene3.unity
+    guid: 6b5562d5ba41e8c49a49404b1723246c
+  - enabled: 1
+    path: Assets/Scenes/ForestScene4.unity
+    guid: 93e0e2ce82c26d24ea2dd39483f3b291
+  - enabled: 1
+    path: Assets/Scenes/ForestScene5.unity
+    guid: d3d2f34c253d545468e81cc40e6a146f
+  - enabled: 1
+    path: Assets/Scenes/ForestScene8.unity
+    guid: 7bd806bf9a6d01f43ace6659f40e5993
+  - enabled: 1
+    path: Assets/Scenes/ForestScene7.unity
+    guid: 7efc5a3bd9185ef4697e6a3cb7548d5b
+  - enabled: 1
+    path: Assets/Scenes/ForestScene9.unity
+    guid: 0b7db43abc202be4983cafc308659d71
+  - enabled: 1
+    path: Assets/Scenes/ForestScene6.unity
+    guid: a815b4b8a5650ba40882ce99cf237103
+  - enabled: 1
+    path: Assets/Scenes/ForestScene10.unity
+    guid: 794985c994aceb54198e090d6e124df2
+  m_configObjects: {}

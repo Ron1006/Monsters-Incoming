@@ -1,5 +1,7 @@
 👉 [https://youtu.be/your-video-link](https://www.youtube.com/watch?v=-DLNFYjdO6c)
 
+[![Monsters Incoming Demo](https://img.youtube.com/vi/-DLNFYjdO6c/0.jpg)](https://www.youtube.com/watch?v=-DLNFYjdO6c)
+
 ## 📱 Download via QR Code
 
 Scan this QR code to download on googleplay:
